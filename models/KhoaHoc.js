@@ -4,4 +4,7 @@ var KhoaHoc = function(){
     this.HinhAnh = '';
     this.LuotXem = '';
     this.NguoiTao = '';
+
+
+    
 }
